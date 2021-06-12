@@ -24,6 +24,10 @@ body {
 	height: 100vh;
 }
 
+.nav-item:hover {
+	color: #FFFFFF;
+}
+
 .circular {
     border-radius: 50%;
     border-style: solid;
