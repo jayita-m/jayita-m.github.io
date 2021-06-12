@@ -6,14 +6,17 @@ body {
 	font-family: 'Lato', sans-serif;
 }
 
+/* e5b299 new 5e8b7e old */
+
 #header-nav {
 	background-color: #5e8b7e;
 	border-radius: 0;
 	border: 0;
 }
 
+/* old f8ede3 new fff5ea */
 #about {
-	background-color: #f8ede3;
+	background-color: #f5f5f5; 
 }
 
 .navbar-brand {
@@ -76,4 +79,20 @@ body {
 .fa:hover {
     color:#5e8b7e;
 }
+
+#f-button, #f-button:visited {
+    background-color: #5e8b7e;
+    color: #FFFFFF;
+}
+
+#f-button:hover, #f-button:active {
+    background-color: #cee5d0;
+    color: #FFFFFF;
+}
+
+#f-button, #f-button:hover, #f-button:active, #f-button:visited {
+    border-color: transparent;
+}
+
+
 
