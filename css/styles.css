@@ -31,6 +31,10 @@ body {
 	height: 100vh;
 }
 
+.nav-item {
+    color: black;
+}
+
 .nav-item:hover {
 	color: #FFFFFF;
 }
@@ -57,6 +61,11 @@ body {
   -webkit-text-stroke-width: 1px;
   animation: text 2s 1;
 }
+
+.YTLink {
+    color:#5e8b7e;
+}
+
 
 @keyframes text {
   0%{
@@ -143,7 +152,7 @@ body {
 }
 
 .card.s-card {
-	margin-top: 0px,
+	margin-top: 0px;
 	overflow: hidden;
     padding: 0em;
     border: none;
